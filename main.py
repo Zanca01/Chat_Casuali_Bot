@@ -5,8 +5,9 @@ from telegram import Update, Bot
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes, CallbackContext
 
 # Configurazioni
-TOKEN = "YOUR_BOT_TOKEN"
-WEBHOOK_URL = "YOUR_WEBHOOK_URL"
+TOKEN = 8131291256:AAGws2uy8rik7904BQUAOFPbjOvjcl9fELY
+WEBHOOK_URL = https://merry-reprieve-production.up.railway.app/webhook
+
 
 # Inizializzazione
 app = Flask(__name__)
