@@ -6,7 +6,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 
 # Configurazioni
 TOKEN = "8131291256:AAGws2uy8rik7904BQUAOFPbjOvjcl9fELY"
-WEBHOOK_URL = https://merry-reprieve-production.up.railway.app/webhook
+WEBHOOK_URL = "https://merry-reprieve-production.up.railway.app/webhook"
 
 
 # Inizializzazione
